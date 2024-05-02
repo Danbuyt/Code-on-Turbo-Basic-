@@ -1,0 +1,7 @@
+PRINT "Light, are you strange?"(y/n)";
+INPUT,X$
+IF X$="Y" THEN
+PRINT "Yes,i am."
+ELSE
+PRINT "No, is YOU strange."
+END IF
