@@ -1,4 +1,3 @@
-INPUT "A=1";A
-INPUT "B=2";B
-C=A+B
-PRINT "C=";C
+X=3.9
+Y=INT(X)
+PRINT Y
