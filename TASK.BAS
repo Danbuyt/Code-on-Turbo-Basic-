@@ -1,0 +1,10 @@
+INPUT "S=138";S
+INPUT "A=5";A
+INPUT "B=3";B
+INPUT "C=540";C
+C1=A*S
+C2=C1-C
+X=C2/(A-B)
+Y=S-X
+PRINT "X=";X
+PRINT "Y=";Y
